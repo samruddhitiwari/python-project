@@ -1,5 +1,5 @@
 # python-project
-This repository contains my assignment for my application to python developer internship
+
 ###ToDo App
 """This module implements a command-line to-do list application
 for efficient task organization.
